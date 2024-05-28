@@ -3,7 +3,8 @@
 
 ---
 
-ASP.NET Core の Razor Pages では、.cshtml と .cshtml.cs ファイルは密接に連携しています。この仕組みは次のようになっています。
+# ASP.NET Core の Razor Pages では、
+.cshtml と .cshtml.cs ファイルは密接に連携しています。この仕組みは次のようになっています。
 
 ### .cshtml ファイル
 
