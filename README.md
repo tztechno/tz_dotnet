@@ -28,18 +28,17 @@ ASP.NET Core の Razor Pages では、.cshtml と .cshtml.cs ファイルは密�
 
 ### 具体例
 
-```
 Pages/Hello.cshtml
-
-htmlCopy code@page
+```
+@page
 @model HelloModel
 
 <h1>@Model.Message</h1>
 ```
-```
-Pages/Hello.cshtml.cs
 
-csharpCopy codepublic class HelloModel : PageModel
+Pages/Hello.cshtml.cs
+```
+public class HelloModel : PageModel
 {
     public string Message { get; set; } = "Hello, World!";
     
