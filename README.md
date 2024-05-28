@@ -35,6 +35,8 @@ Pages/Hello.cshtml
 
 <h1>@Model.Message</h1>
 ```
+Hello.cshtml.csのHelloModelを引用する
+@Model.Message= "Hello, World!"である
 
 Pages/Hello.cshtml.cs
 ```
@@ -50,8 +52,6 @@ public class HelloModel : PageModel
 ```
 
 この例では、HelloModel クラスの Message プロパティを .cshtml ファイルで参照し、画面に表示しています。
-
-
 
 .cshtml と .cshtml.cs は、Razor Pages における View とページモデルの役割を果たしています。ビューとロジックを分離することで、メンテナンス性と拡張性が高まります。この仕組みを上手く活用することで、ASP.NET Core Web アプリケーションを柔軟に構築できます。
 
