@@ -1,7 +1,7 @@
 
 # install_list
 
-### ASP.NET Core Web App                              webapp                   [C#]              Web/MVC/Razor Pages    
+- ASP.NET Core Web App                              webapp                   [C#]              Web/MVC/Razor Pages    
 
 ---
 
