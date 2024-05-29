@@ -1,5 +1,5 @@
 
-# install_list
+# dotnet new -l
 
 - ASP.NET Core Web App                              webapp                   [C#]              Web/MVC/Razor Pages    
 
