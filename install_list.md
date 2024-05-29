@@ -2,7 +2,9 @@
 # dotnet new -l
 
 - ASP.NET Core Web App                              webapp                   [C#]              Web/MVC/Razor Pages    
-
+- Razor Page                                        page                     [C#]              Web/ASP.NET
+- ASP.NET Core Web API                              webapi                   [C#], F#          Web/WebAPI
+- 
 ---
 
 ```
